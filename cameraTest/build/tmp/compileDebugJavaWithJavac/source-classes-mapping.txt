@@ -1,0 +1,10 @@
+net/sourceforge/zbar/android/CameraTest/BuildConfig.java
+ net.sourceforge.zbar.android.CameraTest.BuildConfig
+net/sourceforge/zbar/android/CameraTest/CameraTestActivity.java
+ net.sourceforge.zbar.android.CameraTest.CameraTestActivity
+ net.sourceforge.zbar.android.CameraTest.CameraTestActivity$1
+ net.sourceforge.zbar.android.CameraTest.CameraTestActivity$2
+ net.sourceforge.zbar.android.CameraTest.CameraTestActivity$3
+ net.sourceforge.zbar.android.CameraTest.CameraTestActivity$4
+net/sourceforge/zbar/android/CameraTest/CameraPreview.java
+ net.sourceforge.zbar.android.CameraTest.CameraPreview

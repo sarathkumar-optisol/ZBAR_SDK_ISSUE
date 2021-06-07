@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="net.sourceforge.zbar.android.CameraTest"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:minSdkVersion="1" />
+7-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:6:5-43
+7-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:6:15-40
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:7:5-65
+9-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:7:22-62
+10
+11    <uses-feature android:name="android.hardware.camera" />
+11-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:8:5-60
+11-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:8:19-57
+12    <uses-feature android:name="android.hardware.camera.autofocus" />
+12-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:9:5-70
+12-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:9:19-67
+13
+14    <application android:label="@string/app_name" >
+14-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:10:5-18:19
+14-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:10:18-50
+15        <activity
+15-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:11:9-17:20
+16            android:name="net.sourceforge.zbar.android.CameraTest.CameraTestActivity"
+16-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:11:19-52
+17            android:label="@string/app_name" >
+17-->C:\Users\Dell\AndroidStudioProjects\ZBar\cameraTest\src\main\AndroidManifest.xml:12:19-51
+18
+19            <!-- <intent-filter> -->
+20            <!-- <action android:name="android.intent.action.MAIN" /> -->
+21            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+22            <!-- </intent-filter> -->
+23        </activity>
+24    </application>
+25
+26</manifest>

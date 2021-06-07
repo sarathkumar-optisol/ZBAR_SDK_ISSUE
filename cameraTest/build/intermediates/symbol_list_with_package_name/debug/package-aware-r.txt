@@ -1,0 +1,6 @@
+net.sourceforge.zbar.android.CameraTest
+id ScanButton
+id cameraPreview
+id scanText
+layout main
+string app_name

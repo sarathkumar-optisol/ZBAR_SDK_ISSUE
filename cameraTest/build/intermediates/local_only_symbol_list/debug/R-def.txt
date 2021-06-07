@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+id ScanButton
+id cameraPreview
+id scanText
+layout main
+string app_name
